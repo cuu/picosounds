@@ -14,3 +14,5 @@
 # Any music files
 *.wav
 *.mp3
+.idea
+cmake-build-*
